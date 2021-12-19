@@ -277,6 +277,30 @@
       "equipment":"None",
       "image":"https://i.ytimg.com/vi/vKaLCCNxMho/maxresdefault.jpg"
     }
+  ],
+  "type":[
+   { "id":1,
+     "name":"All"},
+
+     {"name":"Chest",
+    "id":2},
+
+     {"id":3,
+       "name":"Shoulders"},
+
+     {"id":4,
+       "name":"Triceps"},
+      {"id":5,
+      "name":"Back"},
+     {"id":6,
+      "name":"Biceps"},
+          {"id":7,
+            "name":"Abs"},
+            {"id":8,
+              "name":"Legs"}
+
+
+   
   ]
   
 }
